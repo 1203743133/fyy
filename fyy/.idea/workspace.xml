@@ -6,22 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c61b4e3f-34a0-4b42-95ba-334d80b487c2" name="Default" comment="test1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/.idea/artifacts/fyy_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/.idea/artifacts/fyy_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/fyy.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/src/main/java/Hello.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fyy/src/main/webapp/index.jsp" />
+    <list default="true" id="c61b4e3f-34a0-4b42-95ba-334d80b487c2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fyy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../fyy/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../fyy/out/" />
     <ignored path="$PROJECT_DIR$/../fyy/target/" />
@@ -367,12 +353,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550040827493</updated>
-      <workItem from="1550040835392" duration="4209000" />
+      <workItem from="1550040835392" duration="4784000" />
     </task>
+    <task id="LOCAL-00001" summary="test1">
+      <created>1550045116815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550045116815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4209000" />
+    <option name="totallyTimeSpent" value="4784000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
